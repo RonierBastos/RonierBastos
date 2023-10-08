@@ -23,6 +23,7 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
   
 ### 📚 Estudando no momento:
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Duolingo](https://img.shields.io/badge/Duolingo-0D1117?style=for-the-badge&logo=Duolingo&logoColor=green)&nbsp;
